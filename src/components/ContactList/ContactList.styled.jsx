@@ -29,3 +29,8 @@ export const Button = styled.button`
 		border: 1px solid ${p => p.theme.colors.gray};
 } 
 `;
+
+export const NoContacts = styled.p`
+  font-size: 20px;
+  text-align: center;
+`;
